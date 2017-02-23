@@ -3,7 +3,7 @@ import coursePackage.CourseNames;
 class Student {
 
 	private String name;//Student Name
-	private int rollNumber;
+	private int rollNumber;// Roll Number
 	private CourseNames[] courseNames;
 	
 	public CourseNames[] getCourseNames() {
