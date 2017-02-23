@@ -2,7 +2,7 @@ import coursePackage.CourseNames;
 
 class Student {
 
-	private String name;
+	private String name;//Student Name
 	private int rollNumber;
 	private CourseNames[] courseNames;
 	
